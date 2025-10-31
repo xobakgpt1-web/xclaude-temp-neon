@@ -1,0 +1,31 @@
+# Project TODO
+
+- [x] Design database schema for email storage
+- [x] Create backend API endpoints for email operations
+- [x] Implement Cloudflare API integration
+- [x] Implement Gmail API integration
+- [x] Design and implement landing page UI
+- [x] Implement email search functionality
+- [x] Implement inbox view with email list
+- [x] Implement email detail view (HTML/Text toggle)
+- [x] Add auto-refresh functionality with toggle
+- [x] Add loading progress indicator
+- [x] Style with dark theme (navy blue color scheme)
+- [x] Test email receiving and display
+- [x] Create user guide documentation
+- [x] Fix Gmail API integration - emails not being fetched
+- [x] Debug and test email retrieval functionality
+- [x] Fix email detail modal not opening when clicking email
+- [x] Add OTP detection and copy button functionality
+- [x] Remove Manus watermark/branding from website
+- [x] Debug website not working issue
+- [x] Check server logs and errors
+- [x] Verify environment variables
+- [x] Prepare deployment package for external hosting
+- [x] Create deployment guide for Vercel
+- [x] Setup environment variables template
+- [x] Update deployment guides with free database alternatives (PlanetScale no longer free)
+- [x] Create beginner-friendly Railway deployment guide
+- [x] Convert database schema from MySQL to PostgreSQL
+- [x] Create Neon deployment guide for beginners
+- [x] Test PostgreSQL schema compatibility
